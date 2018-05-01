@@ -1,2 +1,2 @@
 # Node-setting
-연습을 위해 사용할 Node.js 정리
+연습을 위한 Node.js Setting
